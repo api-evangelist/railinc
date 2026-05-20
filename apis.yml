@@ -62,6 +62,8 @@ apis:
       - type: Documentation
         url: https://public.railinc.com/
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/railinc
   - type: Documentation
     url: https://public.railinc.com/
   - type: SignUp
