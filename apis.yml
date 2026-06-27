@@ -66,7 +66,7 @@ common:
     url: https://www.linkedin.com/company/railinc
   - type: Documentation
     url: https://public.railinc.com/
-  - type: SignUp
+  - type: Signup
     url: https://public.railinc.com/
   - type: Support
     url: https://public.railinc.com/
