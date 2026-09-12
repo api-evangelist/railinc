@@ -85,6 +85,8 @@ apis:
       - type: Documentation
         url: https://public.railinc.com/
 common:
+  - type: Website
+    url: https://www.railinc.com/
   - type: DomainSecurity
     url: security/railinc-domain-security.yml
   - type: LinkedIn
