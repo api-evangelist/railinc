@@ -85,6 +85,12 @@ apis:
       - type: Documentation
         url: https://public.railinc.com/
 common:
+  - type: Plans
+    url: plans/railinc-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/railinc-rate-limits.yml
+  - type: FinOps
+    url: finops/railinc-finops.yml
   - type: Website
     url: https://www.railinc.com/
   - type: DomainSecurity
